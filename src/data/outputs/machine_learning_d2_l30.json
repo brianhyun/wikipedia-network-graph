@@ -1,0 +1,2041 @@
+{
+  "nodes": [
+    { "id": "Machine learning" },
+    { "id": "15.ai" },
+    { "id": "01.AI" },
+    { "id": "15 (programmer)" },
+    { "id": "2001: A Space Odyssey" },
+    { "id": "4chan" },
+    { "id": "AI boom" },
+    { "id": "AOLbyPhone" },
+    { "id": "ARPABET" },
+    { "id": "A Brony Tale" },
+    { "id": "A Canterlot Wedding" },
+    { "id": "A Hearth's Warming Tail" },
+    { "id": "Action selection" },
+    { "id": "Activation function" },
+    { "id": "Adobe Firefly" },
+    { "id": "Advanced Research Projects Agency" },
+    { "id": "Adversarial machine learning" },
+    { "id": "Alan Turing" },
+    { "id": "Alan W. Black" },
+    { "id": "AlexNet" },
+    { "id": "Alex Graves (computer scientist)" },
+    { "id": "Alex Krizhevsky" },
+    { "id": "Alibaba Group" },
+    { "id": "Allen Newell" },
+    { "id": "AlphaFold" },
+    { "id": "AlphaGo" },
+    { "id": "AlphaZero" },
+    { "id": "Alter/Ego" },
+    { "id": "Amazon Polly" },
+    { "id": "Amazon Web Services" },
+    { "id": "Amending Fences" },
+    { "id": "Andrej Karpathy" },
+    { "id": "AAAI Conference on Artificial Intelligence" },
+    { "id": "Academic conference" },
+    { "id": "Alberta" },
+    { "id": "Anaheim" },
+    { "id": "Artificial intelligence" },
+    { "id": "Association for the Advancement of Artificial Intelligence" },
+    { "id": "Atlanta" },
+    { "id": "Austin, Texas" },
+    { "id": "Boston" },
+    { "id": "British Columbia" },
+    { "id": "California" },
+    { "id": "Canada" },
+    { "id": "Carnegie Mellon University" },
+    { "id": "Chicago" },
+    { "id": "Conference on Neural Information Processing Systems" },
+    { "id": "Florida" },
+    { "id": "Google Scholar" },
+    { "id": "Honolulu" },
+    { "id": "ISSN (identifier)" },
+    { "id": "International Conference on Learning Representations" },
+    { "id": "International Conference on Machine Learning" },
+    { "id": "Journal of Machine Learning Research" },
+    { "id": "Journal ranking" },
+    { "id": "List of academic disciplines and sub-disciplines" },
+    { "id": "MIT" },
+    { "id": "Machine Learning (journal)" },
+    { "id": "Minnesota" },
+    { "id": "New Orleans" },
+    { "id": "New York City" },
+    { "id": "Open access journal" },
+    { "id": "ACM Computing Classification System" },
+    { "id": "Algorithm" },
+    { "id": "Algorithm design" },
+    { "id": "Algorithmic efficiency" },
+    { "id": "Analysis of algorithms" },
+    { "id": "Application security" },
+    { "id": "ArXiv" },
+    { "id": "Association for Computing Machinery" },
+    { "id": "Automata theory" },
+    { "id": "Automated planning and scheduling" },
+    { "id": "Compiler construction" },
+    { "id": "Computability theory" },
+    { "id": "Computational biology" },
+    { "id": "Computational chemistry" },
+    { "id": "Computational complexity" },
+    { "id": "Computational complexity theory" },
+    { "id": "Computational engineering" },
+    { "id": "Computational geometry" },
+    { "id": "Computational mathematics" },
+    { "id": "Computational physics" },
+    { "id": "Computational social science" },
+    { "id": "Computer Science Ontology" },
+    { "id": "Computer accessibility" },
+    { "id": "Computer animation" },
+    { "id": "Computer architecture" },
+    { "id": "Computer data storage" },
+    { "id": "Computer graphics" },
+    { "id": "Computer hardware" },
+    { "id": "Computer network" },
+    { "id": "Computer science" },
+    { "id": "ACM Computing Surveys" },
+    { "id": "AAAI/ACM Conference on AI, Ethics, and Society" },
+    { "id": "ACM-AAAI Allen Newell Award" },
+    { "id": "ACM-W" },
+    { "id": "ACM/IEEE Supercomputing Conference" },
+    { "id": "ACM/IEEE Virtual Reality International Conference" },
+    { "id": "ACM Computing Reviews" },
+    { "id": "ACM Conference on Fairness, Accountability, and Transparency" },
+    { "id": "ACM Conference on Recommender Systems" },
+    { "id": "ACM Digital Library" },
+    { "id": "ACM Doctoral Dissertation Award" },
+    { "id": "ACM Eugene L. Lawler Award" },
+    { "id": "ACM Fellow" },
+    { "id": "ACM Interactions" },
+    { "id": "ACM International Collegiate Programming Contest" },
+    { "id": "ACM Multimedia" },
+    { "id": "ACM Prize in Computing" },
+    { "id": "ACM Queue" },
+    { "id": "ACM SIGACT" },
+    { "id": "ACM SIGARCH" },
+    { "id": "ACM SIGGRAPH" },
+    { "id": "ACM SIGHPC" },
+    { "id": "ACM SIGLOG" },
+    { "id": "ACM SIGOPS" },
+    { "id": "ACM SIGWEB" },
+    { "id": "ACM Software System Award" },
+    { "id": "ACM Student Research Competition" },
+    { "id": "ACM Symposium on User Interface Software and Technology" },
+    { "id": "Academic journal" },
+    { "id": "Academic publishing" },
+    { "id": "ADALINE" },
+    { "id": "Backpropagation" },
+    { "id": "Bernard Widrow" },
+    { "id": "Doi (identifier)" },
+    { "id": "Feedforward neural network" },
+    { "id": "Gradient descent" },
+    { "id": "ISBN (identifier)" },
+    { "id": "Inverted pendulum" },
+    { "id": "Learning rate" },
+    { "id": "Learning rule" },
+    { "id": "Linear regression" },
+    { "id": "Marcian Hoff" },
+    { "id": "Memistor" },
+    { "id": "Multilayer perceptron" },
+    { "id": "Neural network (machine learning)" },
+    { "id": "Perceptron" },
+    { "id": "Potentiometer" },
+    { "id": "S2CID (identifier)" },
+    { "id": "Sigmoid function" },
+    { "id": "Sign function" },
+    { "id": "Snowbird, Utah" },
+    { "id": "Speech recognition" },
+    { "id": "Stanford University" },
+    { "id": "Statistical classification" },
+    { "id": "Stochastic gradient descent" },
+    { "id": "Weather forecasting" },
+    { "id": "AIXI" },
+    { "id": "ArXiv (identifier)" },
+    { "id": "Artificial general intelligence" },
+    { "id": "Bibcode (identifier)" },
+    { "id": "Conditional probability" },
+    { "id": "Context tree weighting" },
+    { "id": "Decision theory" },
+    { "id": "Discounting" },
+    { "id": "G\u00f6del machine" },
+    { "id": "Jan Leike" },
+    { "id": "Kleene star" },
+    { "id": "Marcus Hutter" },
+    { "id": "Markov property" },
+    { "id": "Mathematical logic" },
+    { "id": "Mixture (probability)" },
+    { "id": "Monotone class theorem" },
+    { "id": "Monte Carlo method" },
+    { "id": "Occam's razor" },
+    { "id": "Pac-Man" },
+    { "id": "Pareto optimality" },
+    { "id": "Partially observable system" },
+    { "id": "Probability distribution" },
+    { "id": "Reinforcement learning" },
+    { "id": "Solomonoff induction" },
+    { "id": "Subjective logic" },
+    { "id": "Turing machine" },
+    { "id": "Undecidable problem" },
+    { "id": "Universal Turing machine" },
+    { "id": "AI alignment" },
+    { "id": "AI capability control" },
+    { "id": "AI control problem" },
+    { "id": "AI in China" },
+    { "id": "AI safety" },
+    { "id": "AI takeover" },
+    { "id": "AI winter" },
+    { "id": "Active learning (machine learning)" },
+    { "id": "Alignment Research Center" },
+    { "id": "Alignment problem" },
+    { "id": "Anomaly detection" },
+    { "id": "Applications of artificial intelligence" },
+    { "id": "Artificial Intelligence Act" },
+    { "id": "Artificial consciousness" },
+    { "id": "Artificial intelligence and elections" },
+    { "id": "Artificial intelligence arms race" },
+    { "id": "Artificial intelligence art" },
+    { "id": "Artificial intelligence detection software" },
+    { "id": "Artificial intelligence in government" },
+    { "id": "Artificial intelligence in healthcare" },
+    { "id": "Artificial intelligence in industry" },
+    { "id": "Artificial intelligence in mental health" },
+    { "id": "Artificial intelligence systems integration" },
+    { "id": "Artificial superintelligence" },
+    { "id": "Artificial wisdom" },
+    { "id": "AI effect" },
+    { "id": "Algorithmic bias" },
+    { "id": "AlphaGo versus Lee Sedol" },
+    { "id": "Alphabet Inc." },
+    { "id": "Amazon (company)" },
+    { "id": "Apple Inc." },
+    { "id": "Artificial neural networks" },
+    { "id": "Axios (website)" },
+    { "id": "Bayesian network" },
+    { "id": "AI Safety Institute" },
+    { "id": "AI Safety Summit" },
+    { "id": "AI Seoul Summit" },
+    { "id": "Andrew Ng" },
+    { "id": "Ari Holtzman" },
+    { "id": "2011 end times prediction" },
+    { "id": "2012 phenomenon" },
+    { "id": "2 Esdras" },
+    { "id": "AI box" },
+    { "id": "AI takeover in popular culture" },
+    { "id": "AI takeovers in popular culture" },
+    { "id": "Abomination of desolation" },
+    { "id": "Al-Masih ad-Dajjal" },
+    { "id": "Alien invasion" },
+    { "id": "Amillennialism" },
+    { "id": "Anoxic event" },
+    { "id": "Anthropogenic hazard" },
+    { "id": "Antichrist" },
+    { "id": "Antimatter weapon" },
+    { "id": "Apocalypse" },
+    { "id": "Apocalyptic and post-apocalyptic fiction" },
+    { "id": "Apocalyptic literature" },
+    { "id": "Apocalypticism" },
+    { "id": "Armageddon" },
+    { "id": "Artificial General Intelligence" },
+    { "id": "ABC News (United States)" },
+    { "id": "ALPAC" },
+    { "id": "Agency (philosophy)" },
+    { "id": "Alvey" },
+    { "id": "Ambiguity" },
+    { "id": "American Study Group" },
+    { "id": "Apple Computer" },
+    { "id": "Artificial Intelligence" },
+    { "id": "AT&T Labs" },
+    { "id": "195 Broadway" },
+    { "id": "32 Avenue of the Americas" },
+    { "id": "33 Thomas Street" },
+    { "id": "550 Madison Avenue" },
+    { "id": "611 Place" },
+    { "id": "811 Tenth Avenue" },
+    { "id": "901 Marquette" },
+    { "id": "AT&T" },
+    { "id": "AT&T Alascom" },
+    { "id": "AT&T Building (Indianapolis)" },
+    { "id": "AT&T Building (Kingman, Arizona)" },
+    { "id": "AT&T Building (Nashville)" },
+    { "id": "AT&T Building (Omaha)" },
+    { "id": "AT&T Building (San Diego)" },
+    { "id": "AT&T Business Internet" },
+    { "id": "AT&T Center (Los Angeles)" },
+    { "id": "AT&T Center (Milwaukee)" },
+    { "id": "AT&T Center (St. Louis)" },
+    { "id": "AT&T City Center" },
+    { "id": "AT&T Communications" },
+    { "id": "AT&T Corporation" },
+    { "id": "AT&T Cybersecurity" },
+    { "id": "AT&T Huron Road Building" },
+    { "id": "AT&T Internet" },
+    { "id": "AT&T Laboratories" },
+    { "id": "AT&T Mexico" },
+    { "id": "AT&T Michigan Headquarters" },
+    { "id": "AT&T Mobility" },
+    { "id": "AT&T Switching Center" },
+    { "id": "ATT Chesterfield" },
+    { "id": "Accountability" },
+    { "id": "Aarhus Convention" },
+    { "id": "Accord on Fire and Building Safety in Bangladesh" },
+    { "id": "Accountability for reasonableness" },
+    { "id": "Accountability partner" },
+    { "id": "Accountability software" },
+    { "id": "Achourya" },
+    { "id": "ActionAid" },
+    { "id": "Adhi\u1e6d\u1e6dh\u0101na" },
+    { "id": "Aesthetic taste" },
+    { "id": "Agape" },
+    { "id": "Agency (sociology)" },
+    { "id": "Ahimsa" },
+    { "id": "Air pollution" },
+    { "id": "Akrodha" },
+    { "id": "Alberto Fujimori" },
+    { "id": "Alertness" },
+    { "id": "Altruism" },
+    { "id": "American Economic Review" },
+    { "id": "American Journal of Political Science" },
+    { "id": "American Political Science Review" },
+    { "id": "Ancient Egypt" },
+    { "id": "Ancient Rome" },
+    { "id": "Arete" },
+    { "id": "Aristotelian ethics" },
+    { "id": "Arjava" },
+    { "id": "Arrest" },
+    { "id": "Asset forfeiture" },
+    { "id": "Assisted living" },
+    { "id": "Ataraxia" },
+    { "id": "Auctoritas" },
+    { "id": "ACT-R" },
+    { "id": "Action description language" },
+    { "id": "Action potential" },
+    { "id": "Agent architecture" },
+    { "id": "Agent environment" },
+    { "id": "Animat" },
+    { "id": "Anytime algorithm" },
+    { "id": "Artificial Intelligence Center" },
+    { "id": "Artificial intelligence in video games" },
+    { "id": "Artificial neural network" },
+    { "id": "Attention" },
+    { "id": "Attention (machine learning)" },
+    { "id": "Aurora (text-to-image model)" },
+    {
+      "id": "2008 IEEE International Conference on Acoustics, Speech and Signal Processing"
+    },
+    { "id": "Activating function" },
+    { "id": "Apprenticeship learning" },
+    { "id": "Association rule learning" },
+    { "id": "AutoGPT" },
+    { "id": "Autoencoder" },
+    { "id": "Automated machine learning" },
+    { "id": "Active learning" },
+    { "id": "Alanine transaminase" },
+    { "id": "Amazon Mechanical Turk" },
+    { "id": "Aspartate transaminase" },
+    { "id": "BIRCH" },
+    { "id": "Batch learning" },
+    { "id": "Bayesian Optimization" },
+    { "id": "Bias\u2013variance tradeoff" },
+    { "id": "Boltzmann machine" },
+    { "id": "Boosting (machine learning)" },
+    { "id": "Bootstrap aggregating" },
+    { "id": "CURE algorithm" },
+    { "id": "Canonical correlation" },
+    { "id": "CiteSeerX (identifier)" },
+    { "id": "Cluster analysis" },
+    { "id": "Coefficient of determination" },
+    { "id": "Computational learning theory" },
+    { "id": "Conditional random field" },
+    { "id": "Conformal prediction" },
+    { "id": "Adaptive website" },
+    { "id": "A/B testing" },
+    { "id": "Audition website" },
+    { "id": "Cashback website" },
+    { "id": "Classification (machine learning)" },
+    { "id": "Collaborative filtering" },
+    { "id": "Comparison of BitTorrent sites" },
+    { "id": "Comparison of Q&A sites" },
+    { "id": "Comparison of online dating services" },
+    { "id": "Data mining" },
+    { "id": "Fan wiki" },
+    { "id": "Fansite" },
+    { "id": "Gripe site" },
+    { "id": "Health information on the Internet" },
+    { "id": "IGoogle" },
+    { "id": "Lab website" },
+    { "id": "Library website" },
+    { "id": "List of Internet forums" },
+    { "id": "List of Tor hidden services" },
+    { "id": "List of academic databases and search engines" },
+    { "id": "List of astronomy websites" },
+    { "id": "List of biodiversity databases" },
+    { "id": "List of biology websites" },
+    { "id": "List of blogs" },
+    { "id": "List of chat websites" },
+    { "id": "List of defunct social networking services" },
+    { "id": "List of educational video websites" },
+    { "id": "List of employment websites" },
+    { "id": "Adobe Creative Cloud" },
+    { "id": "Adobe Inc." },
+    { "id": "Adobe Photoshop" },
+    { "id": "Adobe Stock" },
+    { "id": "Anthropic" },
+    { "id": "Autoregressive model" },
+    { "id": "BERT (language model)" },
+    { "id": "BLOOM (language model)" },
+    { "id": "3-D print" },
+    { "id": "Affective computing" },
+    { "id": "Abnormal psychology" },
+    { "id": "Abraham Maslow" },
+    { "id": "Acceptance" },
+    { "id": "Acute stress reaction" },
+    { "id": "Admiration" },
+    { "id": "Adoration" },
+    { "id": "Aesthetic emotions" },
+    { "id": "Affect (education)" },
+    { "id": "Affect (psychology)" },
+    { "id": "Affect consciousness" },
+    { "id": "Affect control theory" },
+    { "id": "Affect measures" },
+    { "id": "Affect theory" },
+    { "id": "Affection" },
+    { "id": "Affective design" },
+    { "id": "Affective forecasting" },
+    { "id": "Affective gaming" },
+    { "id": "Affective haptics" },
+    { "id": "Affective neuroscience" },
+    { "id": "Affective science" },
+    { "id": "Affective spectrum" },
+    { "id": "Albert Bandura" },
+    { "id": "Alternate reality game" },
+    { "id": "Amos Tversky" },
+    { "id": "Amusement" },
+    { "id": "Amygdala hijack" },
+    { "id": "Agriculture" },
+    { "id": "ABC-CLIO" },
+    { "id": "Aeroponics" },
+    { "id": "Agribusiness" },
+    { "id": "Agricultural History Review" },
+    { "id": "Agricultural aircraft" },
+    { "id": "Agricultural biotechnology" },
+    { "id": "Agricultural cooperative" },
+    { "id": "Agricultural economics" },
+    { "id": "Agricultural engineering" },
+    { "id": "Agricultural expansion" },
+    { "id": "Agricultural finance" },
+    { "id": "Agricultural history of Peru" },
+    { "id": "Agricultural machinery" },
+    { "id": "Agricultural marketing" },
+    { "id": "Agricultural policy" },
+    { "id": "Agricultural pollution" },
+    { "id": "Agricultural pollution in New Zealand" },
+    { "id": "Agricultural robot" },
+    { "id": "Agricultural safety and health" },
+    { "id": "Agricultural science" },
+    { "id": "Agricultural subsidy" },
+    { "id": "Agricultural supply store" },
+    { "id": "Agricultural technology" },
+    { "id": "Agricultural value chain" },
+    { "id": "Agricultural wastewater" },
+    { "id": "Agricultural workforce" },
+    { "id": "Agriculture in China" },
+    { "id": "Agriculture in India" },
+    { "id": "Agriculture in Mesoamerica" },
+    { "id": "Agriculture in ancient Greece" },
+    { "id": "Alan Mackworth" },
+    { "id": "Artificial Intelligence: Foundations of Computational Agents" },
+    { "id": "Assistive technology" },
+    { "id": "Cambridge" },
+    { "id": "Canada Research Chair" },
+    { "id": "Canadian Institute for Advanced Research" },
+    { "id": "Canadian Society for Computational Studies of Intelligence" },
+    { "id": "Computational Intelligence: A Logical Approach" },
+    { "id": "Computer vision" },
+    { "id": "Constraint satisfaction" },
+    { "id": "Harvard University" },
+    { "id": "Hybrid system" },
+    { "id": "IJCAI" },
+    { "id": "International RoboCup Foundation" },
+    { "id": "Multi-agent system" },
+    { "id": "NSERC" },
+    { "id": "RoboCup" },
+    { "id": "Robot soccer" },
+    { "id": "Robotics" },
+    { "id": "Royal Society of Canada" },
+    { "id": "UBC computer science" },
+    { "id": "University of British Columbia" },
+    { "id": "University of Sussex" },
+    { "id": "University of Toronto" },
+    { "id": "Wayback Machine" },
+    { "id": "1926 United Kingdom general strike" },
+    { "id": "ACE (computer)" },
+    { "id": "Abraham Wald" },
+    { "id": "Abram Besicovitch" },
+    { "id": "Action This Day (memo)" },
+    { "id": "Ada Lovelace" },
+    { "id": "Adele Goldstine" },
+    { "id": "Adolf Hitler" },
+    { "id": "Akio Morita" },
+    { "id": "Alan Turing: The Enigma" },
+    { "id": "Alan Turing law" },
+    { "id": "Albert Einstein" },
+    { "id": "Albert Neuberger" },
+    { "id": "Alexander Fleming" },
+    { "id": "Alfred D. Chandler Jr." },
+    { "id": "Alfred Ubbelohde" },
+    { "id": "Alick Glennie" },
+    { "id": "Alonzo Church" },
+    { "id": "Amadeo Giannini" },
+    { "id": "American Journal of Mathematics" },
+    { "id": "American Physical Society" },
+    { "id": "Amnesty law" },
+    { "id": "Andrei Sakharov" },
+    { "id": "Andrew Hodges" },
+    { "id": "Andrew Koenig (programmer)" },
+    { "id": "Anglo-Irish people" },
+    { "id": "Anne Frank" },
+    { "id": "Anthony Cave Brown" },
+    { "id": "Aretha Franklin" },
+    { "id": "AdaBoost" },
+    { "id": "Artificial neuron" },
+    { "id": "Bag-of-words model in computer vision" },
+    { "id": "Batch normalization" },
+    { "id": "Bachelor of Science" },
+    { "id": "Connectionist temporal classification" },
+    { "id": "Dalle Molle Institute for Artificial Intelligence Research" },
+    { "id": "DeepMind" },
+    { "id": "Differentiable neural computer" },
+    { "id": "Doctoral advisor" },
+    { "id": "Geoffrey Hinton" },
+    { "id": "Google" },
+    { "id": "Handwriting recognition" },
+    { "id": "J\u00fcrgen Schmidhuber" },
+    { "id": "Long short-term memory" },
+    { "id": "Neural Turing machine" },
+    { "id": "OCLC (identifier)" },
+    { "id": "PMID (identifier)" },
+    { "id": "Postdoc" },
+    { "id": "Recurrent neural network" },
+    { "id": "Smartphone" },
+    { "id": "Technical University of Munich" },
+    { "id": "Theoretical Physics" },
+    { "id": "Thesis" },
+    { "id": "CIFAR-10" },
+    { "id": "Central processing unit" },
+    { "id": "Computer scientist" },
+    { "id": "Deep learning" },
+    { "id": "GeForce" },
+    { "id": "Graphics processing units" },
+    { "id": "Ilya Sutskever" },
+    { "id": "ImageNet challenge" },
+    { "id": "NVIDIA" },
+    { "id": "Template talk:Canada-scientist-stub" },
+    { "id": "A.A. Markov" },
+    { "id": "A. M. Turing" },
+    { "id": "ALGOL" },
+    { "id": "Abstract machine" },
+    { "id": "Adelard of Bath" },
+    { "id": "Al-Khwarizmi" },
+    { "id": "Al-Kindi" },
+    { "id": "Algebra of physical space" },
+    { "id": "Algebraic structures" },
+    { "id": "Algorism" },
+    { "id": "Algorithm (disambiguation)" },
+    { "id": "Algorithm aversion" },
+    { "id": "Algorithm characterizations" },
+    { "id": "Algorithm engineering" },
+    { "id": "Algorithmic composition" },
+    { "id": "Algorithmic entities" },
+    { "id": "Algorithmic paradigm" },
+    { "id": "Algorithmic synthesis" },
+    { "id": "Algorithmic technique" },
+    { "id": "Algorithmic topology" },
+    { "id": "Algorithms" },
+    { "id": "Algorythm" },
+    { "id": "A/B tests" },
+    { "id": "AI Magazine" },
+    { "id": "African American English" },
+    { "id": "Algorithmic accountability" },
+    { "id": "Algorithmic transparency" },
+    { "id": "Algorithmic wage discrimination" },
+    { "id": "Algorithms of Oppression" },
+    { "id": "Amazon.com" },
+    { "id": "American Airlines" },
+    { "id": "Anti-discrimination law" },
+    { "id": "Article 29 Working Party" }
+  ],
+  "links": [
+    { "source": "Machine learning", "target": "15.ai" },
+    { "source": "15.ai", "target": "01.AI" },
+    { "source": "15.ai", "target": "15 (programmer)" },
+    { "source": "15.ai", "target": "2001: A Space Odyssey" },
+    { "source": "15.ai", "target": "4chan" },
+    { "source": "15.ai", "target": "AI boom" },
+    { "source": "15.ai", "target": "AOLbyPhone" },
+    { "source": "15.ai", "target": "ARPABET" },
+    { "source": "15.ai", "target": "A Brony Tale" },
+    { "source": "15.ai", "target": "A Canterlot Wedding" },
+    { "source": "15.ai", "target": "A Hearth's Warming Tail" },
+    { "source": "15.ai", "target": "Action selection" },
+    { "source": "15.ai", "target": "Activation function" },
+    { "source": "15.ai", "target": "Adobe Firefly" },
+    { "source": "15.ai", "target": "Advanced Research Projects Agency" },
+    { "source": "15.ai", "target": "Adversarial machine learning" },
+    { "source": "15.ai", "target": "Alan Turing" },
+    { "source": "15.ai", "target": "Alan W. Black" },
+    { "source": "15.ai", "target": "AlexNet" },
+    { "source": "15.ai", "target": "Alex Graves (computer scientist)" },
+    { "source": "15.ai", "target": "Alex Krizhevsky" },
+    { "source": "15.ai", "target": "Alibaba Group" },
+    { "source": "15.ai", "target": "Allen Newell" },
+    { "source": "15.ai", "target": "AlphaFold" },
+    { "source": "15.ai", "target": "AlphaGo" },
+    { "source": "15.ai", "target": "AlphaZero" },
+    { "source": "15.ai", "target": "Alter/Ego" },
+    { "source": "15.ai", "target": "Amazon Polly" },
+    { "source": "15.ai", "target": "Amazon Web Services" },
+    { "source": "15.ai", "target": "Amending Fences" },
+    { "source": "15.ai", "target": "Andrej Karpathy" },
+    {
+      "source": "Machine learning",
+      "target": "AAAI Conference on Artificial Intelligence"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Academic conference"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Alberta"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Anaheim"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Artificial intelligence"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Association for the Advancement of Artificial Intelligence"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Atlanta"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Austin, Texas"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Boston"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "British Columbia"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "California"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Canada"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Carnegie Mellon University"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Chicago"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Conference on Neural Information Processing Systems"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Florida"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Google Scholar"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Honolulu"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "ISSN (identifier)"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "International Conference on Learning Representations"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "International Conference on Machine Learning"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Journal of Machine Learning Research"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Journal ranking"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "List of academic disciplines and sub-disciplines"
+    },
+    { "source": "AAAI Conference on Artificial Intelligence", "target": "MIT" },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Machine Learning (journal)"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Machine learning"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Minnesota"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "New Orleans"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "New York City"
+    },
+    {
+      "source": "AAAI Conference on Artificial Intelligence",
+      "target": "Open access journal"
+    },
+    {
+      "source": "Machine learning",
+      "target": "ACM Computing Classification System"
+    },
+    { "source": "ACM Computing Classification System", "target": "Algorithm" },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Algorithm design"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Algorithmic efficiency"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Analysis of algorithms"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Application security"
+    },
+    { "source": "ACM Computing Classification System", "target": "ArXiv" },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Artificial intelligence"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Association for Computing Machinery"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Automata theory"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Automated planning and scheduling"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Compiler construction"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computability theory"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computational biology"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computational chemistry"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computational complexity"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computational complexity theory"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computational engineering"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computational geometry"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computational mathematics"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computational physics"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computational social science"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computer Science Ontology"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computer accessibility"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computer animation"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computer architecture"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computer data storage"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computer graphics"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computer hardware"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computer network"
+    },
+    {
+      "source": "ACM Computing Classification System",
+      "target": "Computer science"
+    },
+    { "source": "Machine learning", "target": "ACM Computing Surveys" },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "AAAI/ACM Conference on AI, Ethics, and Society"
+    },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM-AAAI Allen Newell Award"
+    },
+    { "source": "ACM Computing Surveys", "target": "ACM-W" },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM/IEEE Supercomputing Conference"
+    },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM/IEEE Virtual Reality International Conference"
+    },
+    { "source": "ACM Computing Surveys", "target": "ACM Computing Reviews" },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM Conference on Fairness, Accountability, and Transparency"
+    },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM Conference on Recommender Systems"
+    },
+    { "source": "ACM Computing Surveys", "target": "ACM Digital Library" },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM Doctoral Dissertation Award"
+    },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM Eugene L. Lawler Award"
+    },
+    { "source": "ACM Computing Surveys", "target": "ACM Fellow" },
+    { "source": "ACM Computing Surveys", "target": "ACM Interactions" },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM International Collegiate Programming Contest"
+    },
+    { "source": "ACM Computing Surveys", "target": "ACM Multimedia" },
+    { "source": "ACM Computing Surveys", "target": "ACM Prize in Computing" },
+    { "source": "ACM Computing Surveys", "target": "ACM Queue" },
+    { "source": "ACM Computing Surveys", "target": "ACM SIGACT" },
+    { "source": "ACM Computing Surveys", "target": "ACM SIGARCH" },
+    { "source": "ACM Computing Surveys", "target": "ACM SIGGRAPH" },
+    { "source": "ACM Computing Surveys", "target": "ACM SIGHPC" },
+    { "source": "ACM Computing Surveys", "target": "ACM SIGLOG" },
+    { "source": "ACM Computing Surveys", "target": "ACM SIGOPS" },
+    { "source": "ACM Computing Surveys", "target": "ACM SIGWEB" },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM Software System Award"
+    },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM Student Research Competition"
+    },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "ACM Symposium on User Interface Software and Technology"
+    },
+    { "source": "ACM Computing Surveys", "target": "Academic journal" },
+    { "source": "ACM Computing Surveys", "target": "Academic publishing" },
+    {
+      "source": "ACM Computing Surveys",
+      "target": "Association for Computing Machinery"
+    },
+    { "source": "Machine learning", "target": "ADALINE" },
+    { "source": "ADALINE", "target": "Activation function" },
+    { "source": "ADALINE", "target": "Backpropagation" },
+    { "source": "ADALINE", "target": "Bernard Widrow" },
+    { "source": "ADALINE", "target": "Doi (identifier)" },
+    { "source": "ADALINE", "target": "Feedforward neural network" },
+    { "source": "ADALINE", "target": "Gradient descent" },
+    { "source": "ADALINE", "target": "ISBN (identifier)" },
+    { "source": "ADALINE", "target": "Inverted pendulum" },
+    { "source": "ADALINE", "target": "Learning rate" },
+    { "source": "ADALINE", "target": "Learning rule" },
+    { "source": "ADALINE", "target": "Linear regression" },
+    { "source": "ADALINE", "target": "Marcian Hoff" },
+    { "source": "ADALINE", "target": "Memistor" },
+    { "source": "ADALINE", "target": "Multilayer perceptron" },
+    { "source": "ADALINE", "target": "Neural network (machine learning)" },
+    { "source": "ADALINE", "target": "Perceptron" },
+    { "source": "ADALINE", "target": "Potentiometer" },
+    { "source": "ADALINE", "target": "S2CID (identifier)" },
+    { "source": "ADALINE", "target": "Sigmoid function" },
+    { "source": "ADALINE", "target": "Sign function" },
+    { "source": "ADALINE", "target": "Snowbird, Utah" },
+    { "source": "ADALINE", "target": "Speech recognition" },
+    { "source": "ADALINE", "target": "Stanford University" },
+    { "source": "ADALINE", "target": "Statistical classification" },
+    { "source": "ADALINE", "target": "Stochastic gradient descent" },
+    { "source": "ADALINE", "target": "Weather forecasting" },
+    { "source": "Machine learning", "target": "AIXI" },
+    { "source": "AIXI", "target": "ArXiv (identifier)" },
+    { "source": "AIXI", "target": "Artificial general intelligence" },
+    { "source": "AIXI", "target": "Bibcode (identifier)" },
+    { "source": "AIXI", "target": "Conditional probability" },
+    { "source": "AIXI", "target": "Context tree weighting" },
+    { "source": "AIXI", "target": "Decision theory" },
+    { "source": "AIXI", "target": "Discounting" },
+    { "source": "AIXI", "target": "Doi (identifier)" },
+    { "source": "AIXI", "target": "G\u00f6del machine" },
+    { "source": "AIXI", "target": "ISBN (identifier)" },
+    { "source": "AIXI", "target": "Jan Leike" },
+    { "source": "AIXI", "target": "Kleene star" },
+    { "source": "AIXI", "target": "Marcus Hutter" },
+    { "source": "AIXI", "target": "Markov property" },
+    { "source": "AIXI", "target": "Mathematical logic" },
+    { "source": "AIXI", "target": "Mixture (probability)" },
+    { "source": "AIXI", "target": "Monotone class theorem" },
+    { "source": "AIXI", "target": "Monte Carlo method" },
+    { "source": "AIXI", "target": "Occam's razor" },
+    { "source": "AIXI", "target": "Pac-Man" },
+    { "source": "AIXI", "target": "Pareto optimality" },
+    { "source": "AIXI", "target": "Partially observable system" },
+    { "source": "AIXI", "target": "Probability distribution" },
+    { "source": "AIXI", "target": "Reinforcement learning" },
+    { "source": "AIXI", "target": "S2CID (identifier)" },
+    { "source": "AIXI", "target": "Solomonoff induction" },
+    { "source": "AIXI", "target": "Subjective logic" },
+    { "source": "AIXI", "target": "Turing machine" },
+    { "source": "AIXI", "target": "Undecidable problem" },
+    { "source": "AIXI", "target": "Universal Turing machine" },
+    { "source": "Machine learning", "target": "AI alignment" },
+    { "source": "AI alignment", "target": "AI boom" },
+    { "source": "AI alignment", "target": "AI capability control" },
+    { "source": "AI alignment", "target": "AI control problem" },
+    { "source": "AI alignment", "target": "AI in China" },
+    { "source": "AI alignment", "target": "AI safety" },
+    { "source": "AI alignment", "target": "AI takeover" },
+    { "source": "AI alignment", "target": "AI winter" },
+    {
+      "source": "AI alignment",
+      "target": "Active learning (machine learning)"
+    },
+    { "source": "AI alignment", "target": "Alan Turing" },
+    { "source": "AI alignment", "target": "Alignment Research Center" },
+    { "source": "AI alignment", "target": "Alignment problem" },
+    { "source": "AI alignment", "target": "AlphaZero" },
+    { "source": "AI alignment", "target": "Anomaly detection" },
+    {
+      "source": "AI alignment",
+      "target": "Applications of artificial intelligence"
+    },
+    { "source": "AI alignment", "target": "ArXiv (identifier)" },
+    { "source": "AI alignment", "target": "Artificial Intelligence Act" },
+    { "source": "AI alignment", "target": "Artificial consciousness" },
+    { "source": "AI alignment", "target": "Artificial general intelligence" },
+    { "source": "AI alignment", "target": "Artificial intelligence" },
+    {
+      "source": "AI alignment",
+      "target": "Artificial intelligence and elections"
+    },
+    { "source": "AI alignment", "target": "Artificial intelligence arms race" },
+    { "source": "AI alignment", "target": "Artificial intelligence art" },
+    {
+      "source": "AI alignment",
+      "target": "Artificial intelligence detection software"
+    },
+    {
+      "source": "AI alignment",
+      "target": "Artificial intelligence in government"
+    },
+    {
+      "source": "AI alignment",
+      "target": "Artificial intelligence in healthcare"
+    },
+    {
+      "source": "AI alignment",
+      "target": "Artificial intelligence in industry"
+    },
+    {
+      "source": "AI alignment",
+      "target": "Artificial intelligence in mental health"
+    },
+    {
+      "source": "AI alignment",
+      "target": "Artificial intelligence systems integration"
+    },
+    { "source": "AI alignment", "target": "Artificial superintelligence" },
+    { "source": "AI alignment", "target": "Artificial wisdom" },
+    { "source": "Machine learning", "target": "AI boom" },
+    { "source": "AI boom", "target": "15.ai" },
+    { "source": "AI boom", "target": "AI alignment" },
+    { "source": "AI boom", "target": "AI control problem" },
+    { "source": "AI boom", "target": "AI effect" },
+    { "source": "AI boom", "target": "AI safety" },
+    { "source": "AI boom", "target": "AI takeover" },
+    { "source": "AI boom", "target": "AI winter" },
+    { "source": "AI boom", "target": "Algorithmic bias" },
+    { "source": "AI boom", "target": "AlphaFold" },
+    { "source": "AI boom", "target": "AlphaGo" },
+    { "source": "AI boom", "target": "AlphaGo versus Lee Sedol" },
+    { "source": "AI boom", "target": "Alphabet Inc." },
+    { "source": "AI boom", "target": "Amazon (company)" },
+    { "source": "AI boom", "target": "Apple Inc." },
+    {
+      "source": "AI boom",
+      "target": "Applications of artificial intelligence"
+    },
+    { "source": "AI boom", "target": "ArXiv (identifier)" },
+    { "source": "AI boom", "target": "Artificial consciousness" },
+    { "source": "AI boom", "target": "Artificial general intelligence" },
+    { "source": "AI boom", "target": "Artificial intelligence" },
+    { "source": "AI boom", "target": "Artificial intelligence arms race" },
+    { "source": "AI boom", "target": "Artificial intelligence art" },
+    { "source": "AI boom", "target": "Artificial intelligence in government" },
+    { "source": "AI boom", "target": "Artificial intelligence in healthcare" },
+    { "source": "AI boom", "target": "Artificial intelligence in industry" },
+    {
+      "source": "AI boom",
+      "target": "Artificial intelligence in mental health"
+    },
+    {
+      "source": "AI boom",
+      "target": "Artificial intelligence systems integration"
+    },
+    { "source": "AI boom", "target": "Artificial neural networks" },
+    { "source": "AI boom", "target": "Automated planning and scheduling" },
+    { "source": "AI boom", "target": "Axios (website)" },
+    { "source": "AI boom", "target": "Bayesian network" },
+    { "source": "Machine learning", "target": "AI control problem" },
+    { "source": "AI control problem", "target": "AI alignment" },
+    { "source": "Machine learning", "target": "AI safety" },
+    { "source": "AI safety", "target": "AI Safety Institute" },
+    { "source": "AI safety", "target": "AI Safety Summit" },
+    { "source": "AI safety", "target": "AI Seoul Summit" },
+    { "source": "AI safety", "target": "AI alignment" },
+    { "source": "AI safety", "target": "AI boom" },
+    { "source": "AI safety", "target": "AI capability control" },
+    { "source": "AI safety", "target": "AI control problem" },
+    { "source": "AI safety", "target": "AI takeover" },
+    { "source": "AI safety", "target": "AI winter" },
+    { "source": "AI safety", "target": "Adversarial machine learning" },
+    { "source": "AI safety", "target": "Algorithmic bias" },
+    { "source": "AI safety", "target": "Alignment Research Center" },
+    { "source": "AI safety", "target": "Andrew Ng" },
+    { "source": "AI safety", "target": "Anomaly detection" },
+    {
+      "source": "AI safety",
+      "target": "Applications of artificial intelligence"
+    },
+    { "source": "AI safety", "target": "ArXiv (identifier)" },
+    { "source": "AI safety", "target": "Ari Holtzman" },
+    { "source": "AI safety", "target": "Artificial Intelligence Act" },
+    { "source": "AI safety", "target": "Artificial consciousness" },
+    { "source": "AI safety", "target": "Artificial general intelligence" },
+    { "source": "AI safety", "target": "Artificial intelligence" },
+    {
+      "source": "AI safety",
+      "target": "Artificial intelligence and elections"
+    },
+    { "source": "AI safety", "target": "Artificial intelligence arms race" },
+    { "source": "AI safety", "target": "Artificial intelligence art" },
+    {
+      "source": "AI safety",
+      "target": "Artificial intelligence detection software"
+    },
+    {
+      "source": "AI safety",
+      "target": "Artificial intelligence in government"
+    },
+    {
+      "source": "AI safety",
+      "target": "Artificial intelligence in healthcare"
+    },
+    { "source": "AI safety", "target": "Artificial intelligence in industry" },
+    {
+      "source": "AI safety",
+      "target": "Artificial intelligence in mental health"
+    },
+    {
+      "source": "AI safety",
+      "target": "Artificial intelligence systems integration"
+    },
+    { "source": "Machine learning", "target": "AI takeover" },
+    { "source": "AI takeover", "target": "2011 end times prediction" },
+    { "source": "AI takeover", "target": "2012 phenomenon" },
+    { "source": "AI takeover", "target": "2 Esdras" },
+    { "source": "AI takeover", "target": "AI alignment" },
+    { "source": "AI takeover", "target": "AI boom" },
+    { "source": "AI takeover", "target": "AI box" },
+    { "source": "AI takeover", "target": "AI capability control" },
+    { "source": "AI takeover", "target": "AI control problem" },
+    { "source": "AI takeover", "target": "AI safety" },
+    { "source": "AI takeover", "target": "AI takeover in popular culture" },
+    { "source": "AI takeover", "target": "AI takeovers in popular culture" },
+    { "source": "AI takeover", "target": "AI winter" },
+    { "source": "AI takeover", "target": "Abomination of desolation" },
+    { "source": "AI takeover", "target": "Al-Masih ad-Dajjal" },
+    { "source": "AI takeover", "target": "Alien invasion" },
+    { "source": "AI takeover", "target": "Alignment Research Center" },
+    { "source": "AI takeover", "target": "Amillennialism" },
+    { "source": "AI takeover", "target": "Anoxic event" },
+    { "source": "AI takeover", "target": "Anthropogenic hazard" },
+    { "source": "AI takeover", "target": "Antichrist" },
+    { "source": "AI takeover", "target": "Antimatter weapon" },
+    { "source": "AI takeover", "target": "Apocalypse" },
+    {
+      "source": "AI takeover",
+      "target": "Apocalyptic and post-apocalyptic fiction"
+    },
+    { "source": "AI takeover", "target": "Apocalyptic literature" },
+    { "source": "AI takeover", "target": "Apocalypticism" },
+    {
+      "source": "AI takeover",
+      "target": "Applications of artificial intelligence"
+    },
+    { "source": "AI takeover", "target": "ArXiv (identifier)" },
+    { "source": "AI takeover", "target": "Armageddon" },
+    { "source": "AI takeover", "target": "Artificial General Intelligence" },
+    { "source": "AI takeover", "target": "Artificial Intelligence Act" },
+    { "source": "Machine learning", "target": "AI winter" },
+    { "source": "AI winter", "target": "ABC News (United States)" },
+    { "source": "AI winter", "target": "AI boom" },
+    { "source": "AI winter", "target": "AI control problem" },
+    { "source": "AI winter", "target": "AI effect" },
+    { "source": "AI winter", "target": "AI safety" },
+    { "source": "AI winter", "target": "AI takeover" },
+    { "source": "AI winter", "target": "ALPAC" },
+    { "source": "AI winter", "target": "Agency (philosophy)" },
+    { "source": "AI winter", "target": "AlexNet" },
+    { "source": "AI winter", "target": "Allen Newell" },
+    { "source": "AI winter", "target": "AlphaGo" },
+    { "source": "AI winter", "target": "AlphaZero" },
+    { "source": "AI winter", "target": "Alvey" },
+    { "source": "AI winter", "target": "Ambiguity" },
+    { "source": "AI winter", "target": "American Study Group" },
+    { "source": "AI winter", "target": "Apple Computer" },
+    {
+      "source": "AI winter",
+      "target": "Applications of artificial intelligence"
+    },
+    { "source": "AI winter", "target": "Artificial Intelligence" },
+    { "source": "AI winter", "target": "Artificial consciousness" },
+    { "source": "AI winter", "target": "Artificial general intelligence" },
+    { "source": "AI winter", "target": "Artificial intelligence" },
+    { "source": "AI winter", "target": "Artificial intelligence arms race" },
+    { "source": "AI winter", "target": "Artificial intelligence art" },
+    {
+      "source": "AI winter",
+      "target": "Artificial intelligence in government"
+    },
+    {
+      "source": "AI winter",
+      "target": "Artificial intelligence in healthcare"
+    },
+    { "source": "AI winter", "target": "Artificial intelligence in industry" },
+    {
+      "source": "AI winter",
+      "target": "Artificial intelligence in mental health"
+    },
+    {
+      "source": "AI winter",
+      "target": "Artificial intelligence systems integration"
+    },
+    { "source": "AI winter", "target": "Artificial neural networks" },
+    {
+      "source": "AI winter",
+      "target": "Association for the Advancement of Artificial Intelligence"
+    },
+    { "source": "Machine learning", "target": "AT&T Labs" },
+    { "source": "AT&T Labs", "target": "195 Broadway" },
+    { "source": "AT&T Labs", "target": "32 Avenue of the Americas" },
+    { "source": "AT&T Labs", "target": "33 Thomas Street" },
+    { "source": "AT&T Labs", "target": "550 Madison Avenue" },
+    { "source": "AT&T Labs", "target": "611 Place" },
+    { "source": "AT&T Labs", "target": "811 Tenth Avenue" },
+    { "source": "AT&T Labs", "target": "901 Marquette" },
+    { "source": "AT&T Labs", "target": "AT&T" },
+    { "source": "AT&T Labs", "target": "AT&T Alascom" },
+    { "source": "AT&T Labs", "target": "AT&T Building (Indianapolis)" },
+    { "source": "AT&T Labs", "target": "AT&T Building (Kingman, Arizona)" },
+    { "source": "AT&T Labs", "target": "AT&T Building (Nashville)" },
+    { "source": "AT&T Labs", "target": "AT&T Building (Omaha)" },
+    { "source": "AT&T Labs", "target": "AT&T Building (San Diego)" },
+    { "source": "AT&T Labs", "target": "AT&T Business Internet" },
+    { "source": "AT&T Labs", "target": "AT&T Center (Los Angeles)" },
+    { "source": "AT&T Labs", "target": "AT&T Center (Milwaukee)" },
+    { "source": "AT&T Labs", "target": "AT&T Center (St. Louis)" },
+    { "source": "AT&T Labs", "target": "AT&T City Center" },
+    { "source": "AT&T Labs", "target": "AT&T Communications" },
+    { "source": "AT&T Labs", "target": "AT&T Corporation" },
+    { "source": "AT&T Labs", "target": "AT&T Cybersecurity" },
+    { "source": "AT&T Labs", "target": "AT&T Huron Road Building" },
+    { "source": "AT&T Labs", "target": "AT&T Internet" },
+    { "source": "AT&T Labs", "target": "AT&T Laboratories" },
+    { "source": "AT&T Labs", "target": "AT&T Mexico" },
+    { "source": "AT&T Labs", "target": "AT&T Michigan Headquarters" },
+    { "source": "AT&T Labs", "target": "AT&T Mobility" },
+    { "source": "AT&T Labs", "target": "AT&T Switching Center" },
+    { "source": "AT&T Labs", "target": "ATT Chesterfield" },
+    { "source": "Machine learning", "target": "Accountability" },
+    { "source": "Accountability", "target": "Aarhus Convention" },
+    {
+      "source": "Accountability",
+      "target": "Accord on Fire and Building Safety in Bangladesh"
+    },
+    {
+      "source": "Accountability",
+      "target": "Accountability for reasonableness"
+    },
+    { "source": "Accountability", "target": "Accountability partner" },
+    { "source": "Accountability", "target": "Accountability software" },
+    { "source": "Accountability", "target": "Achourya" },
+    { "source": "Accountability", "target": "ActionAid" },
+    { "source": "Accountability", "target": "Adhi\u1e6d\u1e6dh\u0101na" },
+    { "source": "Accountability", "target": "Aesthetic taste" },
+    { "source": "Accountability", "target": "Agape" },
+    { "source": "Accountability", "target": "Agency (sociology)" },
+    { "source": "Accountability", "target": "Ahimsa" },
+    { "source": "Accountability", "target": "Air pollution" },
+    { "source": "Accountability", "target": "Akrodha" },
+    { "source": "Accountability", "target": "Alberto Fujimori" },
+    { "source": "Accountability", "target": "Alertness" },
+    { "source": "Accountability", "target": "Altruism" },
+    { "source": "Accountability", "target": "American Economic Review" },
+    {
+      "source": "Accountability",
+      "target": "American Journal of Political Science"
+    },
+    {
+      "source": "Accountability",
+      "target": "American Political Science Review"
+    },
+    { "source": "Accountability", "target": "Ancient Egypt" },
+    { "source": "Accountability", "target": "Ancient Rome" },
+    { "source": "Accountability", "target": "Arete" },
+    { "source": "Accountability", "target": "Aristotelian ethics" },
+    { "source": "Accountability", "target": "Arjava" },
+    { "source": "Accountability", "target": "Arrest" },
+    { "source": "Accountability", "target": "Asset forfeiture" },
+    { "source": "Accountability", "target": "Assisted living" },
+    { "source": "Accountability", "target": "Ataraxia" },
+    { "source": "Accountability", "target": "Auctoritas" },
+    { "source": "Machine learning", "target": "Action selection" },
+    { "source": "Action selection", "target": "15.ai" },
+    { "source": "Action selection", "target": "ACT-R" },
+    { "source": "Action selection", "target": "Action description language" },
+    { "source": "Action selection", "target": "Action potential" },
+    { "source": "Action selection", "target": "Activation function" },
+    { "source": "Action selection", "target": "Adobe Firefly" },
+    { "source": "Action selection", "target": "Adversarial machine learning" },
+    { "source": "Action selection", "target": "Agent architecture" },
+    { "source": "Action selection", "target": "Agent environment" },
+    { "source": "Action selection", "target": "Alan Turing" },
+    { "source": "Action selection", "target": "AlexNet" },
+    {
+      "source": "Action selection",
+      "target": "Alex Graves (computer scientist)"
+    },
+    { "source": "Action selection", "target": "Alex Krizhevsky" },
+    { "source": "Action selection", "target": "Allen Newell" },
+    { "source": "Action selection", "target": "AlphaFold" },
+    { "source": "Action selection", "target": "AlphaGo" },
+    { "source": "Action selection", "target": "AlphaZero" },
+    { "source": "Action selection", "target": "Andrej Karpathy" },
+    { "source": "Action selection", "target": "Andrew Ng" },
+    { "source": "Action selection", "target": "Animat" },
+    { "source": "Action selection", "target": "Anytime algorithm" },
+    {
+      "source": "Action selection",
+      "target": "Artificial Intelligence Center"
+    },
+    {
+      "source": "Action selection",
+      "target": "Artificial general intelligence"
+    },
+    { "source": "Action selection", "target": "Artificial intelligence" },
+    {
+      "source": "Action selection",
+      "target": "Artificial intelligence in video games"
+    },
+    { "source": "Action selection", "target": "Artificial neural network" },
+    { "source": "Action selection", "target": "Artificial neural networks" },
+    { "source": "Action selection", "target": "Attention" },
+    { "source": "Action selection", "target": "Attention (machine learning)" },
+    { "source": "Action selection", "target": "Aurora (text-to-image model)" },
+    { "source": "Machine learning", "target": "Activation function" },
+    { "source": "Activation function", "target": "15.ai" },
+    {
+      "source": "Activation function",
+      "target": "2008 IEEE International Conference on Acoustics, Speech and Signal Processing"
+    },
+    { "source": "Activation function", "target": "Action potential" },
+    { "source": "Activation function", "target": "Action selection" },
+    { "source": "Activation function", "target": "Activating function" },
+    {
+      "source": "Activation function",
+      "target": "Active learning (machine learning)"
+    },
+    { "source": "Activation function", "target": "Adobe Firefly" },
+    {
+      "source": "Activation function",
+      "target": "Adversarial machine learning"
+    },
+    { "source": "Activation function", "target": "Alan Turing" },
+    { "source": "Activation function", "target": "AlexNet" },
+    {
+      "source": "Activation function",
+      "target": "Alex Graves (computer scientist)"
+    },
+    { "source": "Activation function", "target": "Alex Krizhevsky" },
+    { "source": "Activation function", "target": "Allen Newell" },
+    { "source": "Activation function", "target": "AlphaFold" },
+    { "source": "Activation function", "target": "AlphaGo" },
+    { "source": "Activation function", "target": "AlphaZero" },
+    { "source": "Activation function", "target": "Andrej Karpathy" },
+    { "source": "Activation function", "target": "Andrew Ng" },
+    { "source": "Activation function", "target": "Anomaly detection" },
+    { "source": "Activation function", "target": "Apprenticeship learning" },
+    { "source": "Activation function", "target": "ArXiv (identifier)" },
+    {
+      "source": "Activation function",
+      "target": "Artificial general intelligence"
+    },
+    { "source": "Activation function", "target": "Artificial intelligence" },
+    { "source": "Activation function", "target": "Artificial neural network" },
+    { "source": "Activation function", "target": "Association rule learning" },
+    {
+      "source": "Activation function",
+      "target": "Attention (machine learning)"
+    },
+    {
+      "source": "Activation function",
+      "target": "Aurora (text-to-image model)"
+    },
+    { "source": "Activation function", "target": "AutoGPT" },
+    { "source": "Activation function", "target": "Autoencoder" },
+    { "source": "Activation function", "target": "Automated machine learning" },
+    {
+      "source": "Machine learning",
+      "target": "Active learning (machine learning)"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Active learning"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Alanine transaminase"
+    },
+    { "source": "Active learning (machine learning)", "target": "AlexNet" },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Amazon Mechanical Turk"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Anomaly detection"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Apprenticeship learning"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "ArXiv (identifier)"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Artificial neural network"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Aspartate transaminase"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Association rule learning"
+    },
+    { "source": "Active learning (machine learning)", "target": "Autoencoder" },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Automated machine learning"
+    },
+    { "source": "Active learning (machine learning)", "target": "BIRCH" },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Batch learning"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Bayesian Optimization"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Bayesian network"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Bias\u2013variance tradeoff"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Bibcode (identifier)"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Boltzmann machine"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Boosting (machine learning)"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Bootstrap aggregating"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "CURE algorithm"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Canonical correlation"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "CiteSeerX (identifier)"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Cluster analysis"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Coefficient of determination"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Computational learning theory"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Conditional random field"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Conference on Neural Information Processing Systems"
+    },
+    {
+      "source": "Active learning (machine learning)",
+      "target": "Conformal prediction"
+    },
+    { "source": "Machine learning", "target": "Adaptive website" },
+    { "source": "Adaptive website", "target": "A/B testing" },
+    { "source": "Adaptive website", "target": "Artificial intelligence" },
+    { "source": "Adaptive website", "target": "Audition website" },
+    { "source": "Adaptive website", "target": "Cashback website" },
+    {
+      "source": "Adaptive website",
+      "target": "Classification (machine learning)"
+    },
+    { "source": "Adaptive website", "target": "Cluster analysis" },
+    { "source": "Adaptive website", "target": "Collaborative filtering" },
+    {
+      "source": "Adaptive website",
+      "target": "Comparison of BitTorrent sites"
+    },
+    { "source": "Adaptive website", "target": "Comparison of Q&A sites" },
+    {
+      "source": "Adaptive website",
+      "target": "Comparison of online dating services"
+    },
+    { "source": "Adaptive website", "target": "Data mining" },
+    { "source": "Adaptive website", "target": "Fan wiki" },
+    { "source": "Adaptive website", "target": "Fansite" },
+    { "source": "Adaptive website", "target": "Gripe site" },
+    {
+      "source": "Adaptive website",
+      "target": "Health information on the Internet"
+    },
+    { "source": "Adaptive website", "target": "IGoogle" },
+    { "source": "Adaptive website", "target": "ISBN (identifier)" },
+    { "source": "Adaptive website", "target": "Lab website" },
+    { "source": "Adaptive website", "target": "Library website" },
+    { "source": "Adaptive website", "target": "List of Internet forums" },
+    { "source": "Adaptive website", "target": "List of Tor hidden services" },
+    {
+      "source": "Adaptive website",
+      "target": "List of academic databases and search engines"
+    },
+    { "source": "Adaptive website", "target": "List of astronomy websites" },
+    {
+      "source": "Adaptive website",
+      "target": "List of biodiversity databases"
+    },
+    { "source": "Adaptive website", "target": "List of biology websites" },
+    { "source": "Adaptive website", "target": "List of blogs" },
+    { "source": "Adaptive website", "target": "List of chat websites" },
+    {
+      "source": "Adaptive website",
+      "target": "List of defunct social networking services"
+    },
+    {
+      "source": "Adaptive website",
+      "target": "List of educational video websites"
+    },
+    { "source": "Adaptive website", "target": "List of employment websites" },
+    { "source": "Machine learning", "target": "Adobe Firefly" },
+    { "source": "Adobe Firefly", "target": "01.AI" },
+    { "source": "Adobe Firefly", "target": "15.ai" },
+    { "source": "Adobe Firefly", "target": "Action selection" },
+    { "source": "Adobe Firefly", "target": "Activation function" },
+    { "source": "Adobe Firefly", "target": "Adobe Creative Cloud" },
+    { "source": "Adobe Firefly", "target": "Adobe Inc." },
+    { "source": "Adobe Firefly", "target": "Adobe Photoshop" },
+    { "source": "Adobe Firefly", "target": "Adobe Stock" },
+    { "source": "Adobe Firefly", "target": "Adversarial machine learning" },
+    { "source": "Adobe Firefly", "target": "Alan Turing" },
+    { "source": "Adobe Firefly", "target": "AlexNet" },
+    { "source": "Adobe Firefly", "target": "Alex Graves (computer scientist)" },
+    { "source": "Adobe Firefly", "target": "Alex Krizhevsky" },
+    { "source": "Adobe Firefly", "target": "Alibaba Group" },
+    { "source": "Adobe Firefly", "target": "Allen Newell" },
+    { "source": "Adobe Firefly", "target": "AlphaFold" },
+    { "source": "Adobe Firefly", "target": "AlphaGo" },
+    { "source": "Adobe Firefly", "target": "AlphaZero" },
+    { "source": "Adobe Firefly", "target": "Andrej Karpathy" },
+    { "source": "Adobe Firefly", "target": "Andrew Ng" },
+    { "source": "Adobe Firefly", "target": "Anthropic" },
+    { "source": "Adobe Firefly", "target": "Artificial general intelligence" },
+    { "source": "Adobe Firefly", "target": "Artificial intelligence" },
+    { "source": "Adobe Firefly", "target": "Attention (machine learning)" },
+    { "source": "Adobe Firefly", "target": "Aurora (text-to-image model)" },
+    { "source": "Adobe Firefly", "target": "AutoGPT" },
+    { "source": "Adobe Firefly", "target": "Autoencoder" },
+    { "source": "Adobe Firefly", "target": "Autoregressive model" },
+    { "source": "Adobe Firefly", "target": "BERT (language model)" },
+    { "source": "Adobe Firefly", "target": "BLOOM (language model)" },
+    { "source": "Machine learning", "target": "Adversarial machine learning" },
+    { "source": "Adversarial machine learning", "target": "15.ai" },
+    { "source": "Adversarial machine learning", "target": "3-D print" },
+    { "source": "Adversarial machine learning", "target": "Action selection" },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Activation function"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Active learning (machine learning)"
+    },
+    { "source": "Adversarial machine learning", "target": "Adobe Firefly" },
+    { "source": "Adversarial machine learning", "target": "Alan Turing" },
+    { "source": "Adversarial machine learning", "target": "AlexNet" },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Alex Graves (computer scientist)"
+    },
+    { "source": "Adversarial machine learning", "target": "Alex Krizhevsky" },
+    { "source": "Adversarial machine learning", "target": "Allen Newell" },
+    { "source": "Adversarial machine learning", "target": "AlphaFold" },
+    { "source": "Adversarial machine learning", "target": "AlphaGo" },
+    { "source": "Adversarial machine learning", "target": "AlphaZero" },
+    { "source": "Adversarial machine learning", "target": "Andrej Karpathy" },
+    { "source": "Adversarial machine learning", "target": "Andrew Ng" },
+    { "source": "Adversarial machine learning", "target": "Anomaly detection" },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Apprenticeship learning"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "ArXiv (identifier)"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Artificial general intelligence"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Artificial intelligence"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Artificial neural network"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Association rule learning"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Attention (machine learning)"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Aurora (text-to-image model)"
+    },
+    { "source": "Adversarial machine learning", "target": "AutoGPT" },
+    { "source": "Adversarial machine learning", "target": "Autoencoder" },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Automated machine learning"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "Autoregressive model"
+    },
+    {
+      "source": "Adversarial machine learning",
+      "target": "BERT (language model)"
+    },
+    { "source": "Machine learning", "target": "Affective computing" },
+    {
+      "source": "Affective computing",
+      "target": "ACM Computing Classification System"
+    },
+    { "source": "Affective computing", "target": "Abnormal psychology" },
+    { "source": "Affective computing", "target": "Abraham Maslow" },
+    { "source": "Affective computing", "target": "Acceptance" },
+    { "source": "Affective computing", "target": "Acute stress reaction" },
+    { "source": "Affective computing", "target": "Admiration" },
+    { "source": "Affective computing", "target": "Adoration" },
+    { "source": "Affective computing", "target": "Aesthetic emotions" },
+    { "source": "Affective computing", "target": "Affect (education)" },
+    { "source": "Affective computing", "target": "Affect (psychology)" },
+    { "source": "Affective computing", "target": "Affect consciousness" },
+    { "source": "Affective computing", "target": "Affect control theory" },
+    { "source": "Affective computing", "target": "Affect measures" },
+    { "source": "Affective computing", "target": "Affect theory" },
+    { "source": "Affective computing", "target": "Affection" },
+    { "source": "Affective computing", "target": "Affective design" },
+    { "source": "Affective computing", "target": "Affective forecasting" },
+    { "source": "Affective computing", "target": "Affective gaming" },
+    { "source": "Affective computing", "target": "Affective haptics" },
+    { "source": "Affective computing", "target": "Affective neuroscience" },
+    { "source": "Affective computing", "target": "Affective science" },
+    { "source": "Affective computing", "target": "Affective spectrum" },
+    { "source": "Affective computing", "target": "Albert Bandura" },
+    { "source": "Affective computing", "target": "Algorithm" },
+    { "source": "Affective computing", "target": "Algorithm design" },
+    { "source": "Affective computing", "target": "Algorithmic efficiency" },
+    { "source": "Affective computing", "target": "Alternate reality game" },
+    { "source": "Affective computing", "target": "Amos Tversky" },
+    { "source": "Affective computing", "target": "Amusement" },
+    { "source": "Affective computing", "target": "Amygdala hijack" },
+    { "source": "Machine learning", "target": "Agriculture" },
+    { "source": "Agriculture", "target": "ABC-CLIO" },
+    { "source": "Agriculture", "target": "Aeroponics" },
+    { "source": "Agriculture", "target": "Agribusiness" },
+    { "source": "Agriculture", "target": "Agricultural History Review" },
+    { "source": "Agriculture", "target": "Agricultural aircraft" },
+    { "source": "Agriculture", "target": "Agricultural biotechnology" },
+    { "source": "Agriculture", "target": "Agricultural cooperative" },
+    { "source": "Agriculture", "target": "Agricultural economics" },
+    { "source": "Agriculture", "target": "Agricultural engineering" },
+    { "source": "Agriculture", "target": "Agricultural expansion" },
+    { "source": "Agriculture", "target": "Agricultural finance" },
+    { "source": "Agriculture", "target": "Agricultural history of Peru" },
+    { "source": "Agriculture", "target": "Agricultural machinery" },
+    { "source": "Agriculture", "target": "Agricultural marketing" },
+    { "source": "Agriculture", "target": "Agricultural policy" },
+    { "source": "Agriculture", "target": "Agricultural pollution" },
+    {
+      "source": "Agriculture",
+      "target": "Agricultural pollution in New Zealand"
+    },
+    { "source": "Agriculture", "target": "Agricultural robot" },
+    { "source": "Agriculture", "target": "Agricultural safety and health" },
+    { "source": "Agriculture", "target": "Agricultural science" },
+    { "source": "Agriculture", "target": "Agricultural subsidy" },
+    { "source": "Agriculture", "target": "Agricultural supply store" },
+    { "source": "Agriculture", "target": "Agricultural technology" },
+    { "source": "Agriculture", "target": "Agricultural value chain" },
+    { "source": "Agriculture", "target": "Agricultural wastewater" },
+    { "source": "Agriculture", "target": "Agricultural workforce" },
+    { "source": "Agriculture", "target": "Agriculture in China" },
+    { "source": "Agriculture", "target": "Agriculture in India" },
+    { "source": "Agriculture", "target": "Agriculture in Mesoamerica" },
+    { "source": "Agriculture", "target": "Agriculture in ancient Greece" },
+    { "source": "Machine learning", "target": "Alan Mackworth" },
+    { "source": "Alan Mackworth", "target": "Artificial Intelligence" },
+    {
+      "source": "Alan Mackworth",
+      "target": "Artificial Intelligence: Foundations of Computational Agents"
+    },
+    { "source": "Alan Mackworth", "target": "Artificial intelligence" },
+    { "source": "Alan Mackworth", "target": "Assistive technology" },
+    {
+      "source": "Alan Mackworth",
+      "target": "Association for the Advancement of Artificial Intelligence"
+    },
+    { "source": "Alan Mackworth", "target": "Cambridge" },
+    { "source": "Alan Mackworth", "target": "Canada Research Chair" },
+    {
+      "source": "Alan Mackworth",
+      "target": "Canadian Institute for Advanced Research"
+    },
+    {
+      "source": "Alan Mackworth",
+      "target": "Canadian Society for Computational Studies of Intelligence"
+    },
+    {
+      "source": "Alan Mackworth",
+      "target": "Computational Intelligence: A Logical Approach"
+    },
+    { "source": "Alan Mackworth", "target": "Computer vision" },
+    { "source": "Alan Mackworth", "target": "Constraint satisfaction" },
+    { "source": "Alan Mackworth", "target": "Harvard University" },
+    { "source": "Alan Mackworth", "target": "Hybrid system" },
+    { "source": "Alan Mackworth", "target": "IJCAI" },
+    {
+      "source": "Alan Mackworth",
+      "target": "International RoboCup Foundation"
+    },
+    { "source": "Alan Mackworth", "target": "Multi-agent system" },
+    { "source": "Alan Mackworth", "target": "NSERC" },
+    { "source": "Alan Mackworth", "target": "RoboCup" },
+    { "source": "Alan Mackworth", "target": "Robot soccer" },
+    { "source": "Alan Mackworth", "target": "Robotics" },
+    { "source": "Alan Mackworth", "target": "Royal Society of Canada" },
+    { "source": "Alan Mackworth", "target": "UBC computer science" },
+    { "source": "Alan Mackworth", "target": "University of British Columbia" },
+    { "source": "Alan Mackworth", "target": "University of Sussex" },
+    { "source": "Alan Mackworth", "target": "University of Toronto" },
+    { "source": "Alan Mackworth", "target": "Wayback Machine" },
+    { "source": "Machine learning", "target": "Alan Turing" },
+    { "source": "Alan Turing", "target": "1926 United Kingdom general strike" },
+    { "source": "Alan Turing", "target": "ACE (computer)" },
+    { "source": "Alan Turing", "target": "Abraham Wald" },
+    { "source": "Alan Turing", "target": "Abram Besicovitch" },
+    { "source": "Alan Turing", "target": "Action This Day (memo)" },
+    { "source": "Alan Turing", "target": "Ada Lovelace" },
+    { "source": "Alan Turing", "target": "Adele Goldstine" },
+    { "source": "Alan Turing", "target": "Adolf Hitler" },
+    { "source": "Alan Turing", "target": "Akio Morita" },
+    { "source": "Alan Turing", "target": "Alan Turing: The Enigma" },
+    { "source": "Alan Turing", "target": "Alan Turing law" },
+    { "source": "Alan Turing", "target": "Albert Einstein" },
+    { "source": "Alan Turing", "target": "Albert Neuberger" },
+    { "source": "Alan Turing", "target": "Alexander Fleming" },
+    { "source": "Alan Turing", "target": "Alfred D. Chandler Jr." },
+    { "source": "Alan Turing", "target": "Alfred Ubbelohde" },
+    { "source": "Alan Turing", "target": "Algorithm" },
+    { "source": "Alan Turing", "target": "Alick Glennie" },
+    { "source": "Alan Turing", "target": "Alonzo Church" },
+    { "source": "Alan Turing", "target": "Amadeo Giannini" },
+    { "source": "Alan Turing", "target": "American Journal of Mathematics" },
+    { "source": "Alan Turing", "target": "American Physical Society" },
+    { "source": "Alan Turing", "target": "Amnesty law" },
+    { "source": "Alan Turing", "target": "Andrei Sakharov" },
+    { "source": "Alan Turing", "target": "Andrew Hodges" },
+    { "source": "Alan Turing", "target": "Andrew Koenig (programmer)" },
+    { "source": "Alan Turing", "target": "Anglo-Irish people" },
+    { "source": "Alan Turing", "target": "Anne Frank" },
+    { "source": "Alan Turing", "target": "Anthony Cave Brown" },
+    { "source": "Alan Turing", "target": "Aretha Franklin" },
+    { "source": "Machine learning", "target": "AlexNet" },
+    { "source": "AlexNet", "target": "15.ai" },
+    { "source": "AlexNet", "target": "Action selection" },
+    { "source": "AlexNet", "target": "Activation function" },
+    { "source": "AlexNet", "target": "AdaBoost" },
+    { "source": "AlexNet", "target": "Adobe Firefly" },
+    { "source": "AlexNet", "target": "Adversarial machine learning" },
+    { "source": "AlexNet", "target": "Alan Turing" },
+    { "source": "AlexNet", "target": "Alex Graves (computer scientist)" },
+    { "source": "AlexNet", "target": "Alex Krizhevsky" },
+    { "source": "AlexNet", "target": "Allen Newell" },
+    { "source": "AlexNet", "target": "AlphaFold" },
+    { "source": "AlexNet", "target": "AlphaGo" },
+    { "source": "AlexNet", "target": "AlphaZero" },
+    { "source": "AlexNet", "target": "Andrej Karpathy" },
+    { "source": "AlexNet", "target": "Andrew Ng" },
+    { "source": "AlexNet", "target": "ArXiv (identifier)" },
+    { "source": "AlexNet", "target": "Artificial general intelligence" },
+    { "source": "AlexNet", "target": "Artificial intelligence" },
+    { "source": "AlexNet", "target": "Artificial neuron" },
+    { "source": "AlexNet", "target": "Attention (machine learning)" },
+    { "source": "AlexNet", "target": "Aurora (text-to-image model)" },
+    { "source": "AlexNet", "target": "AutoGPT" },
+    { "source": "AlexNet", "target": "Autoencoder" },
+    { "source": "AlexNet", "target": "Autoregressive model" },
+    { "source": "AlexNet", "target": "BERT (language model)" },
+    { "source": "AlexNet", "target": "BLOOM (language model)" },
+    { "source": "AlexNet", "target": "Backpropagation" },
+    { "source": "AlexNet", "target": "Bag-of-words model in computer vision" },
+    { "source": "AlexNet", "target": "Batch normalization" },
+    { "source": "AlexNet", "target": "Bernard Widrow" },
+    {
+      "source": "Machine learning",
+      "target": "Alex Graves (computer scientist)"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "ArXiv (identifier)"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Artificial intelligence"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Bachelor of Science"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Bibcode (identifier)"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Connectionist temporal classification"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Dalle Molle Institute for Artificial Intelligence Research"
+    },
+    { "source": "Alex Graves (computer scientist)", "target": "DeepMind" },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Differentiable neural computer"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Doctoral advisor"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Doi (identifier)"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Geoffrey Hinton"
+    },
+    { "source": "Alex Graves (computer scientist)", "target": "Google" },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Google Scholar"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Handwriting recognition"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "ISBN (identifier)"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "ISSN (identifier)"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "J\u00fcrgen Schmidhuber"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Long short-term memory"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Neural Turing machine"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "OCLC (identifier)"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "PMID (identifier)"
+    },
+    { "source": "Alex Graves (computer scientist)", "target": "Postdoc" },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Recurrent neural network"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "S2CID (identifier)"
+    },
+    { "source": "Alex Graves (computer scientist)", "target": "Smartphone" },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Speech recognition"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Technical University of Munich"
+    },
+    {
+      "source": "Alex Graves (computer scientist)",
+      "target": "Theoretical Physics"
+    },
+    { "source": "Alex Graves (computer scientist)", "target": "Thesis" },
+    { "source": "Machine learning", "target": "Alex Krizhevsky" },
+    { "source": "Alex Krizhevsky", "target": "AlexNet" },
+    { "source": "Alex Krizhevsky", "target": "Artificial intelligence" },
+    { "source": "Alex Krizhevsky", "target": "Artificial neural networks" },
+    { "source": "Alex Krizhevsky", "target": "CIFAR-10" },
+    { "source": "Alex Krizhevsky", "target": "Central processing unit" },
+    { "source": "Alex Krizhevsky", "target": "CiteSeerX (identifier)" },
+    { "source": "Alex Krizhevsky", "target": "Computer scientist" },
+    { "source": "Alex Krizhevsky", "target": "Computer vision" },
+    { "source": "Alex Krizhevsky", "target": "Deep learning" },
+    { "source": "Alex Krizhevsky", "target": "GeForce" },
+    { "source": "Alex Krizhevsky", "target": "Geoffrey Hinton" },
+    { "source": "Alex Krizhevsky", "target": "Google" },
+    { "source": "Alex Krizhevsky", "target": "Graphics processing units" },
+    { "source": "Alex Krizhevsky", "target": "Ilya Sutskever" },
+    { "source": "Alex Krizhevsky", "target": "ImageNet challenge" },
+    { "source": "Alex Krizhevsky", "target": "Machine learning" },
+    { "source": "Alex Krizhevsky", "target": "NVIDIA" },
+    { "source": "Alex Krizhevsky", "target": "S2CID (identifier)" },
+    { "source": "Alex Krizhevsky", "target": "University of Toronto" },
+    {
+      "source": "Alex Krizhevsky",
+      "target": "Template talk:Canada-scientist-stub"
+    },
+    { "source": "Machine learning", "target": "Algorithm" },
+    { "source": "Algorithm", "target": "A.A. Markov" },
+    { "source": "Algorithm", "target": "A. M. Turing" },
+    { "source": "Algorithm", "target": "ALGOL" },
+    { "source": "Algorithm", "target": "Abstract machine" },
+    { "source": "Algorithm", "target": "Ada Lovelace" },
+    { "source": "Algorithm", "target": "Adelard of Bath" },
+    { "source": "Algorithm", "target": "Al-Khwarizmi" },
+    { "source": "Algorithm", "target": "Al-Kindi" },
+    { "source": "Algorithm", "target": "Alan Turing" },
+    { "source": "Algorithm", "target": "Alan Turing: The Enigma" },
+    { "source": "Algorithm", "target": "Algebra of physical space" },
+    { "source": "Algorithm", "target": "Algebraic structures" },
+    { "source": "Algorithm", "target": "Algorism" },
+    { "source": "Algorithm", "target": "Algorithm (disambiguation)" },
+    { "source": "Algorithm", "target": "Algorithm aversion" },
+    { "source": "Algorithm", "target": "Algorithm characterizations" },
+    { "source": "Algorithm", "target": "Algorithm design" },
+    { "source": "Algorithm", "target": "Algorithm engineering" },
+    { "source": "Algorithm", "target": "Algorithmic bias" },
+    { "source": "Algorithm", "target": "Algorithmic composition" },
+    { "source": "Algorithm", "target": "Algorithmic efficiency" },
+    { "source": "Algorithm", "target": "Algorithmic entities" },
+    { "source": "Algorithm", "target": "Algorithmic paradigm" },
+    { "source": "Algorithm", "target": "Algorithmic synthesis" },
+    { "source": "Algorithm", "target": "Algorithmic technique" },
+    { "source": "Algorithm", "target": "Algorithmic topology" },
+    { "source": "Algorithm", "target": "Algorithms" },
+    { "source": "Algorithm", "target": "Algorythm" },
+    { "source": "Algorithm", "target": "Alonzo Church" },
+    { "source": "Algorithm", "target": "Analysis of algorithms" },
+    { "source": "Machine learning", "target": "Algorithm design" },
+    { "source": "Algorithm design", "target": "Algorithm" },
+    { "source": "Machine learning", "target": "Algorithmic bias" },
+    { "source": "Algorithmic bias", "target": "A/B tests" },
+    { "source": "Algorithmic bias", "target": "AI Magazine" },
+    { "source": "Algorithmic bias", "target": "AI boom" },
+    { "source": "Algorithmic bias", "target": "AI control problem" },
+    { "source": "Algorithmic bias", "target": "AI safety" },
+    { "source": "Algorithmic bias", "target": "AI takeover" },
+    { "source": "Algorithmic bias", "target": "AI winter" },
+    { "source": "Algorithmic bias", "target": "African American English" },
+    { "source": "Algorithmic bias", "target": "Algorithm" },
+    { "source": "Algorithmic bias", "target": "Algorithm characterizations" },
+    { "source": "Algorithmic bias", "target": "Algorithmic accountability" },
+    { "source": "Algorithmic bias", "target": "Algorithmic transparency" },
+    {
+      "source": "Algorithmic bias",
+      "target": "Algorithmic wage discrimination"
+    },
+    { "source": "Algorithmic bias", "target": "Algorithms of Oppression" },
+    { "source": "Algorithmic bias", "target": "Amazon.com" },
+    { "source": "Algorithmic bias", "target": "Amazon (company)" },
+    { "source": "Algorithmic bias", "target": "American Airlines" },
+    { "source": "Algorithmic bias", "target": "Anti-discrimination law" },
+    {
+      "source": "Algorithmic bias",
+      "target": "Applications of artificial intelligence"
+    },
+    { "source": "Algorithmic bias", "target": "ArXiv (identifier)" },
+    { "source": "Algorithmic bias", "target": "Article 29 Working Party" },
+    { "source": "Algorithmic bias", "target": "Artificial Intelligence Act" },
+    { "source": "Algorithmic bias", "target": "Artificial consciousness" },
+    {
+      "source": "Algorithmic bias",
+      "target": "Artificial general intelligence"
+    },
+    { "source": "Algorithmic bias", "target": "Artificial intelligence" },
+    {
+      "source": "Algorithmic bias",
+      "target": "Artificial intelligence arms race"
+    },
+    { "source": "Algorithmic bias", "target": "Artificial intelligence art" },
+    {
+      "source": "Algorithmic bias",
+      "target": "Artificial intelligence in government"
+    },
+    {
+      "source": "Algorithmic bias",
+      "target": "Artificial intelligence in healthcare"
+    },
+    {
+      "source": "Algorithmic bias",
+      "target": "Artificial intelligence in industry"
+    }
+  ]
+}

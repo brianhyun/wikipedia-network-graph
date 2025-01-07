@@ -7,7 +7,7 @@ BLACKLIST_KEYWORDS = [
     "Category:", "User:", "Wikipedia:"
 ]
 
-def fetch_top_links(article, limit=10):
+def fetch_top_links(article, limit=30):
     url = "https://en.wikipedia.org/w/api.php"
     params = {
         "action": "query",
@@ -25,7 +25,7 @@ def fetch_top_links(article, limit=10):
         # Parse response
         pages = data.get("query", {}).get("pages", {})
         
-        for page_id, page_data in pages.items():
+        for _, page_data in pages.items():
             if "links" in page_data:
                 for link in page_data["links"]:
                     title = link['title']
@@ -81,9 +81,13 @@ def build_graph(start_article, depth):
     add_links(start_article, 1)
     return graph
 
-start_article = "Machine learning"
+start_article = "Black Holes"
 depth = 2
 graph = build_graph(start_article, depth)
 graph["nodes"] = [{"id": node} for node in graph["nodes"]]
 
-json.dump(graph, sys.stdout)
+# Save the graph to a file
+with open("black_holes_graph_output_d2_l30.json", "w") as f:
+    json.dump(graph, f)
+
+# json.dump(graph, sys.stdout)
