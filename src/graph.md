@@ -5,7 +5,11 @@ toc: false
 
 # Wikipedia Network Graph
 
-This project presents visualizations of the network structure of Wikipedia articles given a starting article. Each network is generated from a depth of 2 links and the top 30 links, represented by nodes, from each article. You can hover over each node to see the article title.
+This project presents visualizations of the network structure of Wikipedia articles given a starting article.
+
+The data was gathered using the English Wikipedia API. Each network is generated from a depth of 2 links and the top 30 links, represented by nodes, from each article. You can hover over each node to see the article title.
+
+The Louvain Modularity Algorithm was used to cluster the nodes into communities. The algorithm optimizes for modularity, which is a measure of the strength of division of a network into modules or communities. You can read more about it [here](https://en.wikipedia.org/wiki/Louvain_method). The color of each node determines the community it belongs to.
 
 ```js
 import * as d3 from "npm:d3";
@@ -68,9 +72,9 @@ function createGraph(graph) {
     .data(nodes)
     .join("circle")
     .attr("r", 5);
-  //   .attr("fill", (d) => color(d.group));
 
   node.append("title").text((d) => d.id);
+  node.attr("fill", (d) => color(d.group));
 
   // Add a drag behavior.
   node.call(
@@ -125,15 +129,23 @@ const alan_turing_graph = FileAttachment(
 ```
 
 ```js
+display(alan_turing_graph);
+```
+
+```js
 display(createGraph(alan_turing_graph));
 ```
 
-## [Machine learning](https://en.wikipedia.org/wiki/{{Machine_learning}})
+## [Machine Learning](https://en.wikipedia.org/wiki/{{Machine_learning}})
 
 ```js
 const machine_learning_graph = FileAttachment(
   "./data/outputs/machine_learning_d2_l30.json"
 ).json();
+```
+
+```js
+display(machine_learning_graph);
 ```
 
 ```js
@@ -150,28 +162,36 @@ const machine_learning_graph_2 = FileAttachment(
 display(createGraph(machine_learning_graph_2));
 ``` -->
 
-## [Black Holes](https://en.wikipedia.org/wiki/{{Black_Holes}})
+## [Black Hole](https://en.wikipedia.org/wiki/{{Black_hole}})
 
 ```js
-const black_holes_graph = FileAttachment(
-  "./data/outputs/black_holes_d2_l30.json"
+const black_hole_graph = FileAttachment(
+  "./data/outputs/black_hole_d2_l30.json"
 ).json();
 ```
 
 ```js
-display(createGraph(black_holes_graph));
+display(black_hole_graph);
 ```
 
-## [Butterfly Effect](https://en.wikipedia.org/wiki/{{Butterfly_Effect}})
+```js
+display(createGraph(black_hole_graph));
+```
+
+## [The Butterfly Effect](https://en.wikipedia.org/wiki/{{The_Butterfly_Effect}})
 
 ```js
-const butterfly_effect_graph = FileAttachment(
-  "./data/outputs/butterfly_effect_d2_l30.json"
+const the_butterfly_effect_graph = FileAttachment(
+  "./data/outputs/the_butterfly_effect_d2_l30.json"
 ).json();
 ```
 
 ```js
-display(createGraph(butterfly_effect_graph));
+display(the_butterfly_effect_graph);
+```
+
+```js
+display(createGraph(the_butterfly_effect_graph));
 ```
 
 ## [Leonardo da Vinci](https://en.wikipedia.org/wiki/{{Leonardo_da_Vinci}})
@@ -180,6 +200,10 @@ display(createGraph(butterfly_effect_graph));
 const leonardo_da_vinci_graph = FileAttachment(
   "./data/outputs/leonardo_da_vinci_d2_l30.json"
 ).json();
+```
+
+```js
+display(leonardo_da_vinci_graph);
 ```
 
 ```js

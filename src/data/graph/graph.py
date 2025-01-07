@@ -2,6 +2,8 @@ import json
 import requests
 import sys
 
+from community_detection import detect_communities
+
 BLACKLIST_KEYWORDS = [
     "Help:", "File:", "Template:", "Special:", "Talk:", "Portal:", 
     "Category:", "User:", "Wikipedia:"
@@ -81,13 +83,13 @@ def build_graph(start_article, depth):
     add_links(start_article, 1)
     return graph
 
-start_article = "Black Holes"
+start_article = ""
 depth = 2
 graph = build_graph(start_article, depth)
 graph["nodes"] = [{"id": node} for node in graph["nodes"]]
 
-# Save the graph to a file
-with open("black_holes_graph_output_d2_l30.json", "w") as f:
-    json.dump(graph, f)
+# Detect communities and update the graph
+updated_graph = detect_communities(graph)
 
-# json.dump(graph, sys.stdout)
+# Write the graph to standard output
+json.dump(updated_graph, sys.stdout)
