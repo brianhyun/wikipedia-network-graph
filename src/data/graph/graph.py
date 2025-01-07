@@ -47,7 +47,7 @@ def fetch_top_links(article, limit=30):
 
     return links[:limit]  
 
-def build_graph(start_article, depth):
+def build_graph(start_article, depth=2):
     visited = set()
     graph = {
         "nodes": [],
@@ -83,9 +83,7 @@ def build_graph(start_article, depth):
     add_links(start_article, 1)
     return graph
 
-start_article = ""
-depth = 2
-graph = build_graph(start_article, depth)
+graph = build_graph("Artificial intelligence")
 graph["nodes"] = [{"id": node} for node in graph["nodes"]]
 
 # Detect communities and update the graph

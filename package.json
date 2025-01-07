@@ -12,7 +12,10 @@
     "@observablehq/framework": "^1.13.0",
     "d3": "^7.9.0",
     "d3-dsv": "^3.0.1",
-    "d3-time-format": "^4.1.0"
+    "d3-time-format": "^4.1.0",
+    "dompurify": "^3.2.3",
+    "graphology": "^0.25.4",
+    "graphology-communities-louvain": "^2.0.2"
   },
   "devDependencies": {
     "rimraf": "^5.0.5"
