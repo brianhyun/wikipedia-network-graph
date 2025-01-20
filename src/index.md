@@ -1,5 +1,5 @@
 ---
-title: Wikiepedia Network Graph
+title: Wikipedia Network Graph
 toc: false
 ---
 
